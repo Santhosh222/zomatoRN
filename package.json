@@ -13,7 +13,7 @@
     "react": "16.5.0",
     "react-image": "^1.5.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-navigation": "^2.17.0"
+    "react-navigation": "^5.0.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
